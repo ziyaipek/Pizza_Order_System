@@ -8,4 +8,4 @@ Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle ba�
 İkinci aşama olarak seçtikleri sos ve pizzayı seçtikten sonra ödemeye kısmına geçiş yaparlar. 
 Kullanıcılar ödemelerini kredi kartı ile yapacaktır. Her pizzanın bir açıklaması ve fiyatı vardır. 
 
-![Pizza](https://icons8.com/icon/CYgFsQyxgTod/pizza)
+![Pizza](https://www.svgrepo.com/svg/295489/pizza)
